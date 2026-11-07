@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Top-Down GP
 
 A top-down F1 racing game you can play in the browser, alone or online with up to 8 friends.
@@ -81,6 +80,3 @@ The files in `shared/` run on both the server and in the browser, so the physics
 Circuit outlines are derived from [f1-circuits](https://github.com/bacinger/f1-circuits) by Tomislav Bacinger (MIT licence; see `THIRD_PARTY_NOTICES.md`).
 
 This is a private fan project. It is not affiliated with Formula 1, the FIA or any team.
-=======
-# top-down-gp
->>>>>>> 3ae3c0c2a0036fc175254f1fbd672a1dd6cdaaf0
